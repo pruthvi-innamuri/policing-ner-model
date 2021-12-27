@@ -43,4 +43,4 @@ In the future, we aim to improve the NER model itself by gathering more training
 Later on, we hope to package the OCR, data processing/training, and NER steps into a cohesive self-learning program for journalists to begin using.
 
 ## Disclaimer
-Most of the sensitive training data in this project has been removed. Please be respectful of the nature of this project and don't openly share it. Thank you!
+Due to the sensitive nature of our data, the original training, validation, and testing sets have been removed. However, the encoded spacy files can be used. Thank you!
