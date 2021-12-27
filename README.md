@@ -35,8 +35,8 @@ I recently developed this spaCY NER model using the teams' training data. This m
 and generalizes better across unseen police case files of different formats compared to the Amazon Comprehend one. Moreover, it is more cost-effective to 
 journalists. Hence, we will be moving forward with a spaCY model that combines features of my model and my partner's model.
 
-### Model Precision, Accuracy, Recall, Loss During Training
-![model statistics during training](Screenshot 2021-12-26 162705.jpg)
+### Model Metrics During Training (Loss, F1, Precision, Recall, and Overall Score)
+![model statistics during training](https://github.com/pruthvi-innamuri/policing-ner-model/blob/main/Screenshot%202021-12-26%20162705.jpg)
 
 ## Future Steps
 In the future, we aim to improve the NER model itself by gathering more training data so that our model is generalizable to the millions of police records across the country.
