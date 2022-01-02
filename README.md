@@ -42,5 +42,5 @@ journalists. Hence, we will be moving forward with a spaCY model that combines f
 In the future, we aim to improve the NER model itself by gathering more training data so that our model is generalizable to the millions of police records across the country.
 Later on, we hope to package the OCR, data processing/training, and NER steps into a cohesive self-learning program for journalists to begin using.
 
-## Disclaimer
+## Further Note
 Due to the sensitive nature of our data, the original training, validation, and testing sets have been removed. However, the encoded spacy files can be used. Thank you!
